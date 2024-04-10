@@ -1,0 +1,28 @@
+.nav-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+   
+    
+    height: 45px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.unorder-list{
+    display: flex;
+    align-items: center;
+    
+    list-style-type: none; 
+}
+.each-item{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+
+.serch-btn{
+margin-left: 3px;
+}

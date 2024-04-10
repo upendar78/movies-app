@@ -1,0 +1,39 @@
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 10px;
+    
+
+    
+    margin: 10px;
+    
+    height: 350px;
+    width: 300px;
+    background-color: transparent;
+    
+  
+}
+
+
+.cards__img {
+    height: 250px;
+    width: 200px;
+    
+   
+    
+}
+
+  
+.card__title {
+    font-weight: 900;
+    font-size: 1rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 70%;
+}
+
+.card__rating {
+    
+}
